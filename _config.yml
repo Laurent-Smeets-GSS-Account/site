@@ -43,3 +43,6 @@ exclude:
   - README
   - README.md
   - LICENSE
+
+# new configs
+remote_data_prefix: https://laurent-smeets-gss-account.github.io/data
